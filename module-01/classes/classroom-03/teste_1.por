@@ -3,23 +3,23 @@ programa
 	
 	funcao inicio()
 	{
-		real n1, n2
-		escreva("Primeira Nota:")
-		leia(n1)
-		escreva("Segunda Nota:")
-		leia(n2)
-		real m = (n1+n2)/2
-		escreva("A média é: "+ m)
-	}
+		inteiro idade = 22
+		cadeia nome = "Emmanuel"
+		real peso  = 120.75
+		
+		escreva ("Fim\n")
+		escreva (idade)
+		
+		}
 }
 /* $$$ Portugol Studio $$$ 
  * 
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 160; 
+ * @POSICAO-CURSOR = 152; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
+ * @SIMBOLOS-INSPECIONADOS = {idade, 6, 10, 5}-{nome, 7, 9, 4}-{peso, 8, 7, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
